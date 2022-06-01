@@ -10,4 +10,3 @@ while(True):
     array.append(randrange(0, 100))
 
 bubble_sort(array)
-selection_sort(array)
